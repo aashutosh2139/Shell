@@ -1,6 +1,6 @@
 #!/bin/bash
 ################################
-# Author: Ashutosh
+# Author: Ashu
 # Version: v1
 #
 #
